@@ -26,6 +26,7 @@ def main():
         choice=int(input("Enter your choice : "))
         print("\n")
         
+        
         # for adding the task
         if(choice == 1):
             # taking the task from the user
